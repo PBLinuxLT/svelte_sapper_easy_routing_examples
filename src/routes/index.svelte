@@ -2,6 +2,7 @@
 	h1, figure, p, h4 {
 		text-align: center;
 		margin: 10px auto;
+		line-height: 2.8em;
 	}
 
 	h1 {
@@ -38,7 +39,7 @@
 
 <h1>Great success!</h1>
 
-<h4>To See Easy Routing in place, visit the src/routes/profile Folder and click the profile link!</h4>
+<h4>To See Easy Routing in place, visit the src/routes/profile Folder. <br>Also Click the profile link in the Nav to vsiit the new routes.</h4>
 <h4>Because life is complicated enough....</h4>
 <p>For a more in depth use of Routing with server routes, please see the /src/routes/blog folder ;)</p>
 
