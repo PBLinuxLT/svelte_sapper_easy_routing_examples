@@ -38,9 +38,9 @@
 
 <h1>Great success!</h1>
 
-<h4>To See Easy Routing in place, visit the src/profile Folder and click the profile link!</h4>
+<h4>To See Easy Routing in place, visit the src/routes/profile Folder and click the profile link!</h4>
 <h4>Because life is complicated enough....</h4>
-<p>For a more in depth use of Routing with server routes, please see the /src/blog folder ;)</p>
+<p>For a more in depth use of Routing with server routes, please see the /src/routes/blog folder ;)</p>
 
 <figure>
 	<img alt='Success Kid' src='successkid.jpg'>
